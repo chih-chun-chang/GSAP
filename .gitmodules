@@ -1,3 +1,6 @@
 [submodule "include/src/bb_segsort"]
 	path = include/src/bb_segsort
 	url = https://github.com/vtsynergy/bb_segsort.git
+[submodule "include/src/moderngpu"]
+	path = include/src/moderngpu
+	url = https://github.com/moderngpu/moderngpu.git
