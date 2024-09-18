@@ -1,6 +1,6 @@
-[submodule "include/src/bb_segsort"]
-	path = include/src/bb_segsort
+[submodule "GSAP/bb_segsort"]
+	path = GSAP/bb_segsort
 	url = https://github.com/vtsynergy/bb_segsort.git
-[submodule "include/src/moderngpu"]
-	path = include/src/moderngpu
+[submodule "GSAP/moderngpu"]
+	path = GSAP/moderngpu
 	url = https://github.com/moderngpu/moderngpu.git
