@@ -11,7 +11,13 @@ git clone --recurse-submodules https://github.com/chih-chun-chang/GSAP
 mkdir build && cd build
 cmake ..
 make
+make test
 ```
-
 ## Dataset 
 You can download datasets from the GraphChallenge website [here](http://graphchallenge.mit.edu/data-sets)
+
+## Run
+To run the project, download the dataset to the specified directory and then run 
+```
+./run [LL/LH/HL/HH] [1k/5k/20k/50k/200k]
+```
